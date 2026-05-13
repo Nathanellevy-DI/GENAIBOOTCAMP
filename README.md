@@ -35,12 +35,12 @@ Here is the structured breakdown of your onboarding prep and initial lessons:
 
 | Timeline | Module | Focus Topics |
 | :--- | :--- | :--- |
-| **Day 1** | **Introduction to Machine Learning** | Supervised/Unsupervised Learning, Training data, Features & Labels |
-| **Day 2** | **Introduction to Generative AI** | Prompting, Neural Foundations, Generative vs Discriminative AI |
-| **Day 3** | **Introduction to Deep Learning** | Multilayer Perceptrons, MIT Deep Learning, Training Networks |
-| **Day 4** | **Introduction to NLP** | Tokenization, Word Embeddings, Bag of Words, Text Preprocessing |
-| **Day 5** | **Introduction to LLMs** | Transformer Architectures, Attention Mechanisms, Context Windows |
-| **Final** | **GenAI & ML Evaluation** | Comprehensive prep quiz and practical review |
+| **Topic 1** | **Introduction to Machine Learning** | Supervised/Unsupervised Learning, Training data, Features & Labels |
+| **Topic 2** | **Introduction to Generative AI** | Prompting, Neural Foundations, Generative vs Discriminative AI |
+| **Topic 3** | **Introduction to Deep Learning** | Multilayer Perceptrons, MIT Deep Learning, Training Networks |
+| **Topic 4** | **Introduction to NLP** | Tokenization, Word Embeddings, Bag of Words, Text Preprocessing |
+| **Topic 5** | **Introduction to LLMs** | Transformer Architectures, Attention Mechanisms, Context Windows |
+| **Final Topic** | **GenAI & ML Evaluation** | Comprehensive prep quiz and practical review |
 
 ---
 
