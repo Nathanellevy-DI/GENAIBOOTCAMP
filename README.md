@@ -14,11 +14,11 @@
 
 ---
 
-Welcome to your dedicated workspace for the **Generative AI Bootcamp** at Developers Institute! This repository is designed to store your notes, exercises, code snippets, and projects as you journey through the cutting-edge landscape of Artificial Intelligence and Machine Learning.
+Welcome to my dedicated workspace for the **Gen AI Bootcamp** at Developers Institute! This repository is designed to store my notes, exercises, code snippets, and projects as you journey through the cutting-edge landscape of Artificial Intelligence and Machine Learning.
 
 ---
 
-## 🎯 What You Will Learn
+## 🎯 What i Will be Learning
 
 During this Bootcamp, you will develop a deep foundation in both the practical tools of modern software engineering and the core models driving the GenAI revolution:
 
@@ -31,7 +31,7 @@ During this Bootcamp, you will develop a deep foundation in both the practical t
 
 ## 📅 Bootcamp Prep Roadmap
 
-Here is the structured breakdown of your onboarding prep and initial lessons:
+Here is the structured breakdown of my onboarding prep and initial lessons:
 
 | Timeline | Module | Focus Topics |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ Here is the structured breakdown of your onboarding prep and initial lessons:
 
 ## 🛠️ Essential Tools
 
-*   **Editor**: VS Code
+*   **Editor Of Choice**: Antigravity
 *   **Version Control**: Git & GitHub
 *   **Languages**: Advanced Python
 *   **Platform**: StackPad & Developers Institute LMS
@@ -54,15 +54,5 @@ Here is the structured breakdown of your onboarding prep and initial lessons:
 ---
 
 <details>
-<summary>💡 Git Sync Commands Quick Reference</summary>
-
-If you want to sync your local work with your online GitHub repository, you can ask your AI partner to do it, or run these in your terminal:
-
-```bash
-git add .
-git commit -m "Update bootcamp notes/exercises"
-git push
-```
-</details>
 
 <p align="center">🚀 <em>Happy Learning & Coding!</em> 🚀</p>
