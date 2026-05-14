@@ -1,7 +1,7 @@
 import math
 import re
 
-print("🌟 Exercise 1 : Functions Exercises #1")
+print(" Exercise 1 : Functions Exercises #1")
 
 # difference
 def difference(a, b):
