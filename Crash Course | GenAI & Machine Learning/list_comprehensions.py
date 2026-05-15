@@ -7,8 +7,8 @@ print("\n--- Exercise 2 ---")
 [print(val * 20) for val in [1, 2, 3, 4]]
 
 # 3. Given a list ["Elie", "Tim", "Matt"], return a new list with only the first letter (["E", "T", "M"]).
-print("\n--- Exercise 3 ---")
-res3 = [name[0] for name in ["Elie", "Tim", "Matt"]]
+print("\n--- Exercise 3 ---") 
+res3 = [name[0] for name in ["El ie", "Tim", "Matt"]]
 print(res3)
 
 # 4. Given a list [1,2,3,4,5,6] return a new list of all the even values ([2,4,6]).
