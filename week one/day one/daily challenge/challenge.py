@@ -1,3 +1,4 @@
+
 user_str = input("Please enter a string exactly 10 characters long: ")
 
 if len(user_str) < 10:
